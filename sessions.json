@@ -1,4 +1,4 @@
-{
+[{
   "_id": {
     "$oid": "5bfc37a4e42e8f000a00003e"
   },
@@ -19406,4 +19406,4 @@
   },
   "alias": "rsschool",
   "sync_solutions": {}
-}
+}]
