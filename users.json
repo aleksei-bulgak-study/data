@@ -293,4 +293,3 @@
 {"_id":{"$oid":"5bfc40ba7d53b900214ad142"},"provider":"github","uid":"a5dbd624c77190f0","providerId":"39832124","displayName":"Andddrews","__v":0},
 {"_id":{"$oid":"5bfc42c47d53b900214ad145"},"provider":"github","uid":"c3806f48a4ab5757","providerId":"43390018","displayName":"Andrew Petrov","__v":0},
 {"_id":{"$oid":"5bfc42e47d53b900214ad146"},"provider":"google","uid":"8aad0f70a1b1269b","providerId":"112949757044188800036","displayName":"Витя Римша","__v":0}]
-,
