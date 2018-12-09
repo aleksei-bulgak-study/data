@@ -1,4 +1,4 @@
-{
+[{
   "_id": {
     "$oid": "5af9c7624e08a2000b000027"
   },
@@ -369,7 +369,8 @@
       "uid": "fbdeb72cd7b8eac3"
     }
   },
-  "rounds": [{
+  "rounds": [
+    {
     "puzzleIndex": {
       "$numberLong": "0"
     },
@@ -14388,4 +14389,4 @@
     "$numberLong": "0"
   },
   "alias": "rsschool"
-}
+}]
